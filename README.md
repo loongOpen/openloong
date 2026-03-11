@@ -67,7 +67,7 @@ OpenLoong主要遵循Apache License V2.0协议，详情请参考各代码仓LICE
 OpenLoong引用三方开源软件及许可证说明，参考第三方开源软件说明。
 
 ## 联系方式
-- 网站：https://www.openloong.org.cn/en
+- 网站：[官网](https://www.openloong.org.cn/en)
 - 邮箱：web@openloong.org.cn
 
 
